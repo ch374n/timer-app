@@ -13,3 +13,8 @@ functionality.</p>
 <li>Change color of timer to YELLOW once the value reacher <= 50 seconds.</li>
 <li>Keep default color to GREEN for values > 50 seconds</li>
 </ol>
+<h1>Requirements</h1>
+<ol>
+ <li>create-react-app (tool by facebook)</li>
+ <li>node (version >= 8)</li>
+</ol>
